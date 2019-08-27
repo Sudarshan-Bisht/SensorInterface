@@ -9,7 +9,7 @@ Solution structure;
 5. UnitTestsHelloSensor; is unit test project, there are 9 unit tests, testing command parsing functionality of HelloSensor.
 
 How to run the app;
-1. On command prompt go to the respective location where HelloSensor.dll is located (In my case its C:\DC_Assignment\HelloSensor\bin\Debug\netcoreapp2.0).
+1. On command prompt go to the respective location where HelloSensor.dll is located.
 2. Type; dotnet HelloSensor.dll 10.0.0.1 5004  (There is no .exe gets generated in .NET Core 2.0, so this is the way we have to run console app in latest environment ).
 3. When scan start command is directed, frames (dummy) will get stored in same folder, a log file will also generated contains tracing.
 
