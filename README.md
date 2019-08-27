@@ -1,5 +1,5 @@
 # SensorInterface
-C# based application, demonstrating how to interface with image sensors. Since there is no real sensors present, so interaction is really happening with fake sensor.
+Unit tested C# based application, demonstrating how to interface with image sensors. Since there is no real sensors present, so interaction is really happening with fake sensor.
 
 Solution structure;
 1. Open HelloSensor.sln in latest version of VS2017 which supports .NET Core 2.0
